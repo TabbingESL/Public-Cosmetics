@@ -1,0 +1,21 @@
+{ 
+   "uuid":"b4cb46fd-5636-4c49-b887-7c630e15d3cd",
+   "username":ItzArchie,
+   "cosmetics":{ 
+      "Black":{ 
+         "name":"Black",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/uk.png"
+},
+      "red":{ 
+         "name":"butterfly_2",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/bone.png"
+      }
+   }
+}
+© 2020 GitHub, Inc.
