@@ -1,0 +1,21 @@
+{ 
+   "uuid":"08e171f0-0315-49a3-a146-9f503d731747",
+   "username":ESHOOTERPAMPA,
+   "cosmetics":{ 
+      "guatemala":{ 
+         "name":"guatemala",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/youtube_1.png"
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/indigo.png"
+      }
+   }
+}
+© 2020 GitHub, Inc.
