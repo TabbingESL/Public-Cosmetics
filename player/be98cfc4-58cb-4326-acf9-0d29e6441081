@@ -1,0 +1,21 @@
+{ 
+   "uuid":"be98cfc4-58cb-4326-acf9-0d29e6441081",
+   "username":Requal,
+   "cosmetics":{ 
+      "capes":{ 
+         "name":"capes",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/capes.png"
+},
+	  "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/builder.png"
+      }
+   }
+}
+© 2020 GitHub, Inc.
