@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
 },
-      "red":{ 
-         "name":"butterfly_2",
+      "pink":{ 
+         "name":"pink",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/TabbingESL/Public-Cosmetics/blob/master/cosmetics/wings/pink.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/pink.png"
       }
    }
 }
