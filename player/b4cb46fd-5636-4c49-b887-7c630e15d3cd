@@ -3,11 +3,11 @@
    "username":ItzArchie,
    "cosmetics":{ 
       "builder":{ 
-         "name":"builder",
+         "name":"OG",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/uk.png"
 },
 	  "black":{ 
          "name":"black",
