@@ -2,12 +2,12 @@
    "uuid":"b2c66b64-1df2-4f49-a999-1cb0b6c693c3",
    "username":TabsDealer,
    "cosmetics":{ 
-      "netherlands":{ 
-         "name":"netherlands",
+      "clowncape":{ 
+         "name":"clowncape",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/netherlands.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/clowncape.png"
 },
       "red":{ 
          "name":"red",
@@ -15,13 +15,6 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
-},
-      "black":{ 
-         "name":"black",
-         "type":"dragon_wings",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
       }
    }
 }
