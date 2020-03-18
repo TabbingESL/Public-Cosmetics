@@ -11,7 +11,7 @@
 },
       "red":{ 
          "name":"butterfly_2",
-         "type":"wings",
+         "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/butterfly_2.png"
