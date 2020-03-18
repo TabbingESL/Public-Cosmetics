@@ -1,0 +1,20 @@
+{ 
+   "uuid":"d8851f56-c49c-4f96-8122-fa2577f53134",
+   "username":C63AMGCoupe,
+   "cosmetics":{ 
+      "builder":{ 
+         "name":"OG",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/russia.png"
+},
+	  "black":{ 
+         "name":"OGBLUE",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/darkblue.png"
+      }
+   }
+}
