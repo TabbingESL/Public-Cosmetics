@@ -2,12 +2,12 @@
    "uuid":"be98cfc4-58cb-4326-acf9-0d29e6441081",
    "username":Requal,
    "cosmetics":{ 
-      "capes":{ 
-         "name":"capes",
+      "builder":{ 
+         "name":"builder",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/TabbingESL/Public-Cosmetics/blob/master/cosmetics/capes/tryhardgiveaway.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/tryhardgiveaway.png"
 },
 	  "black":{ 
          "name":"black",
@@ -18,4 +18,3 @@
       }
    }
 }
-© 2020 GitHub, Inc.
