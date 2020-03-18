@@ -1,0 +1,20 @@
+{ 
+   "uuid":"22ced88d-de28-486b-bf82-9e8dcce7ef2a",
+   "username":NaturalVibes,
+   "cosmetics":{ 
+      "Space":{ 
+         "name":"Space",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/capes.png"
+},
+      "green":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
+      }
+   }
+}
