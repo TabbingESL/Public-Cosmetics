@@ -7,7 +7,8 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
+         "resourceLocation":"         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
+"
 },
       "pink":{ 
          "name":"pink",
