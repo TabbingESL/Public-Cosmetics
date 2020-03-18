@@ -1,0 +1,20 @@
+{ 
+   "uuid":"b4cb46fd-5636-4c49-b887-7c630e15d3cd",
+   "username":ItzArchie,
+   "cosmetics":{ 
+      "builder":{ 
+         "name":"builder",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
+},
+	  "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/builder.png"
+      }
+   }
+}
