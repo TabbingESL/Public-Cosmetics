@@ -2,12 +2,12 @@
    "uuid":"b2c66b64-1df2-4f49-a999-1cb0b6c693c3",
    "username":TabsDealer,
    "cosmetics":{ 
-      "ireland":{ 
-         "name":"ireland",
+      "christmassnowflake":{ 
+         "name":"christmassnowflake",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/ireland.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/christmassnowflake.png"
 },
       "red":{ 
          "name":"butterfly_2",
