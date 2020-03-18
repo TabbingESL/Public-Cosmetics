@@ -1,21 +1,40 @@
 { 
-   "uuid":"b4cb46fd-5636-4c49-b887-7c630e15d3cd",
-   "username":ItzArchie,
+   "uuid":"b2c66b64-1df2-4f49-a999-1cb0b6c693c3",
+   "username":TabsDealer,
    "cosmetics":{ 
-      "Black":{ 
-         "name":"Black",
+      "protected":{ 
+         "name":"protected",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/uk.png"
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
 },
-      "red":{ 
-         "name":"butterfly_2",
-         "type":"dragon_wings",
+      "banned":{ 
+         "name":"banned",
+         "type":"cape",
          "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
+},
+      "twitch":{ 
+         "name":"twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/twitch.png"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/youtube.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/bone.png"
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
       }
    }
-}
-© 2020 GitHub, Inc.
