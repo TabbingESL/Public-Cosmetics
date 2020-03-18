@@ -1,0 +1,20 @@
+{ 
+   "uuid":"004e68fc-1df0-47c7-9217-1c18f931f6fb",
+   "username":ESHOOTERPAMPA,
+   "cosmetics":{ 
+      "youtube_1":{ 
+         "name":"youtube_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/youtube_1.png"
+},
+      "green":{ 
+         "name":"green",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
+      }
+   }
+}
