@@ -2,39 +2,10 @@
    "uuid":"b2c66b64-1df2-4f49-a999-1cb0b6c693c3",
    "username":TabsDealer,
    "cosmetics":{ 
-      "protected":{ 
-         "name":"protected",
+      "zonixwhite":{ 
+         "name":"zonixwhite",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/twitch.png"
 },
-      "banned":{ 
-         "name":"banned",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
-},
-      "twitch":{ 
-         "name":"twitch",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/twitch.png"
-},
-      "youtube":{ 
-         "name":"youtube",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/youtube.png"
-},
-      "black":{ 
-         "name":"black",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
-      }
-   }
