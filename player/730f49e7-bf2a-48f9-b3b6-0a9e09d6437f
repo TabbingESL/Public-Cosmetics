@@ -1,0 +1,20 @@
+{ 
+   "uuid":"730f49e7-bf2a-48f9-b3b6-0a9e09d6437f",
+   "username":ShugaNips,
+   "cosmetics":{ 
+      "Space":{ 
+         "name":"Space",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/capes.png"
+},
+      "green":{ 
+         "name":"Black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://github.com/TabbingESL/Public-Cosmetics/blob/master/cosmetics/wings/black.png?raw=true"
+      }
+   }
+}
