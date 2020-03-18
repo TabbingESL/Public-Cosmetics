@@ -10,11 +10,11 @@
          "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/christmasred.png"
 },
       "red":{ 
-         "name":"red",
-         "type":"dragon_wings",
+         "name":"butterfly_2",
+         "type":"wings",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/butterfly_2.png"
       }
    }
 }
