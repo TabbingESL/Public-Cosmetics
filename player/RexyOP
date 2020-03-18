@@ -1,0 +1,20 @@
+{ 
+   "uuid":"83fbb205-0ee7-4408-aaec-6afccd71976a",
+   "username":druut,
+   "cosmetics":{ 
+      "builder":{ 
+         "name":"builder",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/builder.png"
+},
+	  "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/builder.png"
+      }
+   }
+}
