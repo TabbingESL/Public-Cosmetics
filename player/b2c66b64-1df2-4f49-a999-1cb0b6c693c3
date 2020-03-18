@@ -2,19 +2,19 @@
    "uuid":"b2c66b64-1df2-4f49-a999-1cb0b6c693c3",
    "username":TabsDealer,
    "cosmetics":{ 
-      "christmassnowflake":{ 
-         "name":"christmassnowflake",
+      "viperblack":{ 
+         "name":"viperblack",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/christmassnowflake.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
 },
       "red":{ 
          "name":"butterfly_2",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/butterfly_2.png"
+         "resourceLocation":"https://github.com/TabbingESL/Public-Cosmetics/blob/master/cosmetics/wings/pink.png"
       }
    }
 }
