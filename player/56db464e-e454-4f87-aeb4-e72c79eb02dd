@@ -1,0 +1,20 @@
+ 
+   "uuid":"56db464e-e454-4f87-aeb4-e72c79eb02dd",
+   "username":20p0,
+   "cosmetics":{ 
+      "OG":{ 
+         "name":"OG",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/wispexe.png"
+},
+	  "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/builder.png"
+      }
+   }
+}
