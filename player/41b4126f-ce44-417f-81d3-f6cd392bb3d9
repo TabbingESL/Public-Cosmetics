@@ -1,0 +1,20 @@
+{ 
+   "uuid":"41b4126f-ce44-417f-81d3-f6cd392bb3d9",
+   "username":ThingyMert,
+   "cosmetics":{ 
+      "faze_2":{ 
+         "name":"faze_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/lunar_client_5.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
