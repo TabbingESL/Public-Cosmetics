@@ -7,14 +7,14 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/viperblack.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/unnamed.png"
 },
       "pink":{ 
          "name":"pink",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/bone.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/wings/red.png"
       }
    }
 } 
