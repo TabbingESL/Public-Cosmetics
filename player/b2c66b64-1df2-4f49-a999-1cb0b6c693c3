@@ -3,11 +3,11 @@
    "username":Tabed,
    "cosmetics":{ 
       "viperblack":{ 
-         "name":"viperblack",
+         "name":"marcel",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/lunar_network_1.png"
+         "resourceLocation":"https://raw.githubusercontent.com/TabbingESL/Public-Cosmetics/master/cosmetics/capes/marcel.png"
 },
       "pink":{ 
          "name":"pink",
