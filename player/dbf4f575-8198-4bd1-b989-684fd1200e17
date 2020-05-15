@@ -1,0 +1,20 @@
+{ 
+   "uuid":"dbf4f575-8198-4bd1-b989-684fd1200e17",
+   "username":Starvis,
+   "cosmetics":{ 
+      "faze_2":{ 
+         "name":"faze_2",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://github.com/TabbingESL/Public-Cosmetics/blob/master/cosmetics/capes/kissemoji.png?raw=true"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
